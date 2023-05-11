@@ -1,4 +1,4 @@
-name: ssa
+name: segment
 channels:
   - defaults
 dependencies:
